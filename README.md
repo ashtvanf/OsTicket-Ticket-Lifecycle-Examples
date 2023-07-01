@@ -19,25 +19,28 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Intake
 - Assignment and Communication
-- Working the Issue
 - Resolution
 
-<h2>Example Ticket SLA-A (Emergency)</h2>
+<h2>Intake</h2>
 In the example below you will see there is an Emergency level ticket where a business' entire banking system is down.
 <p>
 <p>
 <img src="https://github.com/ashtvanf/OsTicket-Ticket-Lifecycle-Examples/assets/138221709/24e9e3ac-659c-4ea3-858e-6337fb80b325"/>
 </p>
 <p>
-<h2>Intake</h2>
+<h2>Assigment and Communication</h2>
+Our Admin will sign in and assign this ticket it's priority and SLA, as well as assign it to an agent and department. Examples are shown below.
 </p>
 <p>
 <img src="https://github.com/ashtvanf/OsTicket-Ticket-Lifecycle-Examples/assets/138221709/5c84fde9-9677-4c28-9d98-1cbebf776029"/>
 </p>
 <p>
-As admin I will sign in and assign this ticket it's priority and SLA, as well as assign it to an agent and department. Examples are shown below.
 </p>
 <br />
+<img src="https://github.com/ashtvanf/OsTicket-Ticket-Lifecycle-Examples/assets/138221709/05bed11a-3bfc-4381-9892-da4e0c956255"/>
+<img src="https://github.com/ashtvanf/OsTicket-Ticket-Lifecycle-Examples/assets/138221709/e0f6f726-b179-4189-8daa-198eba145bae"/>
+<img src="https://github.com/ashtvanf/OsTicket-Ticket-Lifecycle-Examples/assets/138221709/1d6e3b6f-eac1-4c0c-8f3e-4f5b3f251fe5"/>
+<img src="https://github.com/ashtvanf/OsTicket-Ticket-Lifecycle-Examples/assets/138221709/55845b0d-7a2e-49bf-a427-1f64e2363312"/>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
