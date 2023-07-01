@@ -41,11 +41,19 @@ Our Admin will sign in and assign this ticket it's priority and SLA, as well as 
 <img src="https://github.com/ashtvanf/OsTicket-Ticket-Lifecycle-Examples/assets/138221709/e0f6f726-b179-4189-8daa-198eba145bae"/>
 <img src="https://github.com/ashtvanf/OsTicket-Ticket-Lifecycle-Examples/assets/138221709/1d6e3b6f-eac1-4c0c-8f3e-4f5b3f251fe5"/>
 <img src="https://github.com/ashtvanf/OsTicket-Ticket-Lifecycle-Examples/assets/138221709/55845b0d-7a2e-49bf-a427-1f64e2363312"/>
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+As shown above, the task has now been assigned all it's necessary requirements for resolution. 
+<p>
+<p>
+<h2>Resolution</h2>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In finalizing this ticket, it is now being forwarded to System Admins for Resolution as show below. 
+<img src="https://github.com/ashtvanf/OsTicket-Ticket-Lifecycle-Examples/assets/138221709/c59f4665-f80a-41bf-9ba3-a2f455480a91"/>
 </p>
-<br />
+<p>
+<h2>Key Notes</h2>
+</p>
+<p>
+Most tickets with this severity will not be pushed or resolved as easily shown. This example show's the most straight forward process to demonstrate the ticket's life cycle. 
